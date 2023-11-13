@@ -6,22 +6,24 @@ The project is organized with the following file structure:
 ```
 .
 ├── Dockerfile
-├── Hellofresh-challenge.md
-├── Makefile
 ├── README.md
-├── examples
-│   ├── create.json
-│   ├── updatePATCH.json
-│   └── updatePUT.json
-├── go
-│   ├── main.go
-│   └── main_test.go
+├── TODO
+├── cmd
+│   └── api
+│       ├── handler
+│       │   └── configs.go
+│       ├── main.go
+│       ├── models
+│       │   └── config.go
+│       └── routes
+│           └── routes.go
 ├── go.mod
 ├── go.sum
-└── kube
-    ├── app.yaml
-    ├── ingress.yaml
-    └── kind.yaml
+├── kube
+│   ├── app.yaml
+│   └── kind.yaml
+└── test
+    └── main_test.go
 ```
 ### How to Run
 Before running the service, make sure you have the following tools installed:

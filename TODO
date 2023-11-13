@@ -1,6 +1,6 @@
 - [ ] make the tests work
 - [ ] add logs
-- [ ] add a database 
+- [ ] add a database (mongo)
 - [ ] add volumes
 - [ ] make it work in a replica mode
 - [ ] create an autoscaler
