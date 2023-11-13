@@ -1,8 +1,12 @@
 - [ ] make the tests work
 - [ ] add logs
+- [ ] add a database 
+- [ ] add volumes
+- [ ] make it work in a replica mode
+- [ ] create an autoscaler
+- [ ] batch insert 
+- [ ] add a cache
 - [ ] add metrics
 - [ ] gitlab CI
-- [ ] add volumes
 - [ ] add harbour
 - [ ] add argocd 
-
