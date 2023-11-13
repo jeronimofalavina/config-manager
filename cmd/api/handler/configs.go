@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	model "HFtest-platform-jeronimofalavina-tst/api/cmd/models"
+	model "github.com/jeronimofalavina/config-manager/api/cmd/models"
 
 	"github.com/gin-gonic/gin"
 )

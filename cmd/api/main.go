@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	route "HFtest-platform-jeronimofalavina-tst/cmd/routes"
+	route "github.com/jeronimofalavina/config-manager/api/cmd/routes"
 
 	"github.com/gin-gonic/gin"
 )

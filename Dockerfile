@@ -1,4 +1,4 @@
-FROM golang:1.21.3-alpine3.17 AS builder
+FROM golang:1.21.4-alpine3.17 AS builder
 
 WORKDIR $GOPATH/src/http/
 COPY go/main.go go.mod go.sum ./

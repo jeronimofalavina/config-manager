@@ -1,7 +1,7 @@
 package routes
 
 import (
-	handlers "HFtest-platform-jeronimofalavina-tst/cmd/handler"
+	handlers "github.com/jeronimofalavina/config-manager/api/cmd/handler"
 
 	"github.com/gin-gonic/gin"
 )

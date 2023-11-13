@@ -1,4 +1,4 @@
-module HFtest-platform-jeronimofalavina-tst
+module github.com/jeronimofalavina/config-manager
 
 go 1.21.4
 
