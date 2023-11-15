@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	route "github.com/jeronimofalavina/config-manager/api/cmd/routes"
+	route "github.com/jeronimofalavina/config-manager/cmd/api/routes"
 
 	"github.com/gin-gonic/gin"
 )

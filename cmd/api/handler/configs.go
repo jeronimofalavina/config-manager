@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	model "github.com/jeronimofalavina/config-manager/api/cmd/models"
+	model "github.com/jeronimofalavina/config-manager/cmd/api/models"
 
 	"github.com/gin-gonic/gin"
 )

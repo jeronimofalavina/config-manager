@@ -1,3 +1,4 @@
+- [X] Break the code in different packages
 - [ ] make the tests work
 - [ ] use pulumi to deploy the infrastructure
 - [ ] add logs

@@ -1,7 +1,7 @@
 package routes
 
 import (
-	handlers "github.com/jeronimofalavina/config-manager/api/cmd/handler"
+	handlers "github.com/jeronimofalavina/config-manager/cmd/api/handler"
 
 	"github.com/gin-gonic/gin"
 )
